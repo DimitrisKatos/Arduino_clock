@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Arduino clock without RTC.
 
 In this repository we will create a arduino clock without RTC sensor. We will use a lcd to display the time, the date, a counter and also to set an alarm.Also we will use 6 pins to manually change the time, data and alarm. 
@@ -24,3 +25,6 @@ You can use the pins to make changes to the system using the following rules:
 - The second row of the lcd, change only when we hold the Button 5(Alarm)
  and the Button 6 (Counter).
 - You can increase the hours and minutes only by one in every second. 
+=======
+## Create a digital time clock with arduino and display the time. 
+>>>>>>> a60e7cc715880d9f02a3ee12621926950e264f86
